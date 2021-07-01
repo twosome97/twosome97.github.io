@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "CSS DAY1"
+---
+# CSS + HTML
 <!DOCTYPE html>
 <html>
 <head>
