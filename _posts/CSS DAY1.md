@@ -1,5 +1,5 @@
 ---
-layout: html
+layout: single
 title:  "CSS DAY1"
 ---
 #<!DOCTYPE html>
