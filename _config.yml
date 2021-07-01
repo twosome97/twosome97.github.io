@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Note for what I learned"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HyeonJoong KIM"
+name                     : "HYEON JOONG KIM"
 description              : "2021-7-1 Start"
 url                      : "https://twosome97.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
